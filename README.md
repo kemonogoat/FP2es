@@ -1,6 +1,7 @@
-<p align="center">|
-  
+<p align="center">
+
 # Freedom Planet 2 Traducción al Español
+
 Mod simple en BepInEx que cambia los diálogos y texto del juego por su versión al español de la Switch, solo eso.
   
 * No aseguro compatibilidad con otros mods y reconozco que hay errores que no sé si llegue a arreglar, mi meta fue hacer la historia entendible para el público español que tiene el juego en PC
@@ -9,8 +10,8 @@ Mod simple en BepInEx que cambia los diálogos y texto del juego por su versión
 
 _Ir a la derecha en **Releases** para descargar el .zip_
 
-<h2 align="center">Screenshots</h2>
 </p>
+<h2 align="center">Screenshots</h2>
 <p align="center">
   <img width="48%" alt="Captura 1" src="https://github.com/user-attachments/assets/bf6e1cad-7638-4572-98ab-22b91067eb43" />
   <img width="48%" alt="Captura 2" src="https://github.com/user-attachments/assets/54c8a8b6-35ca-412c-8684-aed381696e0b" />
