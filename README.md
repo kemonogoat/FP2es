@@ -1,4 +1,5 @@
 <p align="center">|
+  
 # Freedom Planet 2 Traducción al Español
 Mod simple en BepInEx que cambia los diálogos y texto del juego por su versión al español de la Switch, solo eso.
   
