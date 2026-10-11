@@ -10,7 +10,7 @@ Parche simple en BepInEx que cambia los diálogos y texto al español.
 
  
 * Ir a la derecha en **Releases (latest)** para descargar el .zip y ver como instalar
-
+* IA fue usada para la exportación del dialogo y su implementación, cambios de localización fueron hechos a consciencia humana.
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
