@@ -5,12 +5,10 @@ Parche simple en BepInEx que cambia los diálogos y texto al español.
 </div>
 
 * No aseguro compatibilidad con otros mods y pueden haber errores de formato.
-* Los diálogos son fiel a la historia (sacados de la traducción de consola)
-* Funciona en Linux(proton) y Windows para la versión **1.2.8r de Freedom Planet 2 en PC**.
-
- 
+* Los diálogos son fiel a la historia (sacados de la traducción de consola).
+* Funciona en Linux (proton) y Windows para **Freedom Planet 2 v1.2.8r en PC**.
+* IA fue usada para la exportación del dialogo y su implementación.
 * Ir a la derecha en **Releases (latest)** para descargar el .zip y ver como instalar
-* IA fue usada para la exportación del dialogo y su implementación, cambios de localización fueron hechos a consciencia humana.
 <h2 align="center">Screenshots</h2>
 
 <p align="center">
